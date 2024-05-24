@@ -1,0 +1,2 @@
+# Tradung
+Tradung strategy
